@@ -1,0 +1,27 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>TRI_2005</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>51.19999999999982</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>3678155|583521|476766|375575|290077|220340|170860|131958|102075|79612|61848|48363|37632|29690|23248|17952|13979|11370|8980|7188|5604|4597|3652|3019|2541|1938|1666|1375|1175|1027|809|684|601|543|447|377|343|284|231|230|205|170|153|150|130|89|117|115|86|85|65|77|57|57|54|55|52|53|40|37|46|37|30|45|33|31|27|27|29|15|26|15|16|23|16|18|19|15|20|3|15|26|16|7|17|8|9|7|12|14|12|6|7|10|6|8|7|4|9|8|12|4|5|6|7|7|7|2|7|3|2|3|9|10|5|7|6|2|2|2|6|2|1|0|4|2|5|3|4|1|2|2|5|0|1|0|2|3|3|0|4|1|5|1|3|0|0|2|2|4|2|1|2|1|1|2|3|1|1|1|1|1|1|1|0|2|1|0|0|0|2|1|0|1|3|2|0|0|0|0|1|0|0|0|2|2|1|0|0|0|1|0|0|0|1|0|1|0|0|1|0|1|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|1|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">51.2</MDI>
+      <MDI key="STATISTICS_MEAN">0.50034243813763</MDI>
+      <MDI key="STATISTICS_STDDEV">0.80945566048296</MDI>
+      <MDI key="STATISTICS_MEDIAN">0.000000</MDI>
+      <MDI key="STATISTICS_COUNT">6403103.000000</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">0.6552184662879016</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

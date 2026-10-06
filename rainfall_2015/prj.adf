@@ -1,0 +1,7 @@
+Projection    UTM
+Zone          37
+Datum         ARS
+Spheroid      CLARKE1880
+Units         METERS
+Zunits        NO
+Parameters    

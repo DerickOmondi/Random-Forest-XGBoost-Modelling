@@ -1,0 +1,9 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>rainfall_2015</Description>
+    <NoDataValue>0.00000000000000E+00</NoDataValue>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

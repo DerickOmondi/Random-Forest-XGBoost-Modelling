@@ -1,0 +1,27 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>PCI_2015</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>51.00094890150496</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>243527|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|51|259|2553|4506|4757|5148|5358|5900|6421|7354|7980|8337|8362|7317|6823|6663|6461|5929|5250|5015|5096|5049|5080|5079|5051|5005|4918|4912|5184|5460|5485|5636|6491|7855|8093|8342|8249|8323|8470|8559|8966|9191|9109|9082|9088|8024|7225|6489|5803|5789|5272|4707|3978|3157|2147|844|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">51.000948901505</MDI>
+      <MDI key="STATISTICS_MEAN">26.439098797513</MDI>
+      <MDI key="STATISTICS_STDDEV">22.630156494478</MDI>
+      <MDI key="STATISTICS_MEDIAN">41.800778</MDI>
+      <MDI key="STATISTICS_COUNT">579180.000000</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">512.1239829645847</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

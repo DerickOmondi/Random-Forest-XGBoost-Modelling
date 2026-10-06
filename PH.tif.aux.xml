@@ -1,0 +1,27 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Soil_pH_1995</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>7.699999809265137</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>42473|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|14|0|0|0|92|0|0|1141|0|0|2635|0|0|0|4192|0|0|3732|0|0|5053|0|0|0|4996|0|0|5806|0|0|4529|0|0|0|5062|0|0|2646|0|0|1627|0|0|0|1125|0|0|1315|0|0|919|0|0|898|0|0|0|562|0|0|640|0|0|462|0|0|0|547|0|0|454|0|0|713|0|0|0|539|0|0|368|0|0|94|0|0|0|10|0|0|2|0|0|1|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">7.6999998092651</MDI>
+      <MDI key="STATISTICS_MEAN">3.0837211785781</MDI>
+      <MDI key="STATISTICS_STDDEV">2.8590783262995</MDI>
+      <MDI key="STATISTICS_MEDIAN">5.072941</MDI>
+      <MDI key="STATISTICS_COUNT">92648.000000</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">8.174328875915762</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
